@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/sbksbk198100/naver-auto-tools/releases/download/v1.0.0/naver_keyword.exe",
-  "changelog": "최초 배포"
+  "version": "1.0.1",
+  "download_url": "https://github.com/sbksbk198100/naver-auto-tools/releases/download/v1.0.1/naver_keyword.exe",
+  "changelog": "자동 업데이트 기능 추가"
 }
